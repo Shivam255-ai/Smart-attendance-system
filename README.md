@@ -102,4 +102,4 @@ For full face recognition capabilities:
 - **Export Data**: Generate CSV/Excel reports
 
 ## Author
-[Your Name] - B.Tech 2nd Year Project
+[Shivam Kumar] - B.Tech 3rd Year Project
