@@ -1,5 +1,8 @@
 🎯 Smart Attendance System
+
 🚀 AI-Powered Automated Attendance Tracking Solution
+
+
 📌 Overview
 
 The Smart Attendance System is an intelligent, automated solution designed to replace traditional attendance methods with AI-driven face recognition and real-time tracking.
